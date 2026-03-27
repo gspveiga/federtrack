@@ -1,6 +1,6 @@
 # Federtrack Project
 
-Este repositório contém o projeto final desenvolvido durante uma Iniciação Científica, com foco em análise preditiva. 
+Este repositório contém o projeto final, com foco em análise preditiva. 
 
 ## 📂 Estrutura do Projeto
 
