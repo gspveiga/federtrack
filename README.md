@@ -1,4 +1,4 @@
-# Final IC Project
+# Federtrack Project
 
 Este repositório contém o projeto final desenvolvido durante uma Iniciação Científica, com foco em análise preditiva. 
 
